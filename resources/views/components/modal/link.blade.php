@@ -1,0 +1,1 @@
+<a href="#" data-toggle="modal" data-target="#{{$target}}" class="btn btn-sm btn-{{$class}}">{!!$text!!}</a>

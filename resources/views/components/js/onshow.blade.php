@@ -1,0 +1,1 @@
+$("#{{$id}}").on('show.bs.modal', function(e){
